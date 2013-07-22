@@ -1,0 +1,90 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"Gun's profile",
+        "type":"default",
+		"text":"2013-02-26",
+		"startDate":"2002,3,2",
+        "date": [
+            {
+                "startDate":"2002,3,2",
+				"endDate":"2009,2,16",
+                "headline":"University",
+                "text":"<p>전남대학교 컴퓨터 공학과</p>",
+                "asset":
+                {
+                    "media":"images/chonnam_logo.gif",
+                },
+            },
+            {
+                "startDate":"2008,3",
+                "endDate":"2008,9",
+                "headline":"University",
+                "text":"<p>전남대학교 컴퓨터 공학과</p><p>센서를 이용한 Home Automation</p>",
+                "tag":"This is Optional",
+                "asset":
+                {
+                    "media":"images/HA_1.png",
+                    "credit":"Gun Kim",
+                },
+            },
+            {
+                "startDate":"2009,2,17",
+                "headline":"개발자의 날",
+                "text":"<p>tmaxcore 입사</p>",
+                "asset":
+                {
+                    "media":"images/tmaxcore_logo.jpg",
+                }
+            },
+            {
+                "startDate":"2009,3",
+                "endDate":"2009,10",
+                "headline":"Tmax Window",
+                "text":"<p>windows 와의 호환</p><p>wldap.dll 등</p>",
+                "asset":
+                {
+                    "media":"images/tmax_window_logo.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,11",
+                "endDate":"2010,4",
+                "headline":"Tmax Window",
+                "text":"<p>Installer</p>",
+                "asset":
+                {
+                    "media":"images/tmax_window_logo.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010,5",
+                "endDate":"2010,12",
+                "headline":"Tmax Window",
+                "text":"<p>test 업무</p>",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=Olb4UqDlWfg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,1",
+                "endDate":"2013",
+                "headline":"Tizen SDK",
+                "text":"<p>Unit Test Project</p><p>Code Coverage</p><p>DA - UI Recorder </p><p>IDE - launch, pakcaging, cli</p>",
+                "asset":
+                {
+                    "media":"images/tizen_ide_splash.png",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
