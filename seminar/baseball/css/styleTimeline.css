@@ -116,6 +116,7 @@ h1,h2,h4,h5,h6 {
 				#issues li p {
 					font-size: 14px;
 					margin-right: 70px;
+					margin-left: 70px;
 					font-weight: normal;
 					line-height: 22px;
 					text-shadow: #000 1px 1px 2px;
